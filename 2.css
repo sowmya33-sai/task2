@@ -1,0 +1,43 @@
+
+body{
+background-color: #9100AA;
+}
+
+#main{
+background-color: #61CF86;
+margin: 15%;
+display: flex;
+justify-content: space-around;
+border-radius: 4%
+
+}
+.sub{
+background-color: #39784E;
+width: 30%;
+margin: 4%;
+border-radius: 5%;
+text-align: center;
+box-shadow: 4px 4px 5px 5px;
+height: 25%;
+}
+.sub:hover{
+color: #91DDAA;
+}
+img{
+width: 70%;
+height: 50%;
+border-radius: 15%;
+margin: 4%;
+}
+/*p{*/
+/*font-size: 20px;*/
+
+/*}*/
+a{
+text-decoration: none;
+
+}
+a>h3{ color: white }
+h3{
+color: black;
+}
